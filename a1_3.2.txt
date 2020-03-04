@@ -1,0 +1,6 @@
+1000: 0.3035
+5000: 0.3508
+10000: 0.3604
+15000: 0.3710
+20000: 0.3733
+There is a noticeable trend such that as the number of data trained on the classifier results in greater accuracy. This is generally expected.
